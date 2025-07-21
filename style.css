@@ -76,7 +76,7 @@ button:active{
 @media (max-width:768px){
     .calculator{
         width:100%;
-        max-width:365px;
+        max-width:400px;
     }
     button{
         width:60px;
